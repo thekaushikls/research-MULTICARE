@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b1447eceeee85b0",
+        "id": "6a372d03104635a0",
         "type": "tabs",
         "children": [
           {
-            "id": "c6db0161dd3faf9e",
+            "id": "e23ce868471bffa3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deliverables/Tasks/index.md",
+                "file": "Deliverables/WorkStreams/WS-3.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deliverables/Tasks/index.md",
+                "file": "Deliverables/WorkStreams/WS-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deliverables/Tasks/index.md",
+                "file": "Deliverables/WorkStreams/WS-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deliverables/Tasks/index.md"
+                "file": "Deliverables/WorkStreams/WS-3.md"
               }
             }
           },
@@ -157,34 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6db0161dd3faf9e",
+  "active": "e23ce868471bffa3",
   "lastOpenFiles": [
-    "Deliverables/index.md",
-    "Deliverables/Tasks/index.md",
-    "Deliverables/Tasks/T-6.1.2.md",
-    "Deliverables/WorkStreams/WS-6.md",
-    "Deliverables/WorkStreams/WS-5.md",
-    "Deliverables/WorkStreams/WS-4.md",
-    "Deliverables/WorkPackages/WP-6.5.md",
-    "Deliverables/WorkStreams/WS-3.md",
-    "Deliverables/WorkPackages/WP-6.3.md",
-    "Deliverables/WorkPackages/WP-6.2.md",
-    "Deliverables/WorkPackages/WP-6.1.md",
-    "Deliverables/WorkPackages/WP-5.1.md",
-    "Deliverables/WorkPackages/WP-4.1.md",
+    "Deliverables/WorkStreams/index.md",
+    "index.md",
+    "index 1.md",
     "Deliverables/WorkPackages/WP-3.1.md",
-    "Deliverables/Tasks/T-6.5.3.md",
-    "Deliverables/Tasks/T-6.5.2.md",
-    "Deliverables/Tasks/T-6.3.2.md",
-    "Deliverables/Tasks/T-6.3.3.md",
-    "Deliverables/Tasks/T-6.5.1.md",
-    "Deliverables/Tasks/T-6.3.1.md",
-    "Deliverables/Tasks/T-6.2.3.md",
-    "Deliverables/Tasks/T-6.2.2.md",
-    "Deliverables/Tasks/T-6.2.1.md",
-    "Deliverables/Tasks/T-6.1.4.md",
-    "Deliverables/Tasks/T-6.1.3.md",
-    "Deliverables/Tasks/T-4.1.1.md",
+    "Deliverables/WorkStreams/WS-3.md",
+    "Deliverables/WorkStreams/WS-4.md",
+    "Deliverables/WorkStreams/WS-5.md",
+    "Deliverables/WorkStreams/WS-6.md",
+    "Notes/Ad-Hoc Connections.md",
+    "Notes/Modular.md",
+    "Notes/Exo-Skeleton.md",
+    "Notes/Multi-layer Facade Systems.md",
+    "Notes/Plug and Play.md",
+    "Notes/Reversible Connections.md",
+    "Notes/Low Carbon Impact.md",
+    "Notes/Smart Modules.md",
+    "Deliverables/WorkStreams/Low Carbon Technology.md",
+    "Deliverables/WorkStreams/Low-carbon.md",
+    "Notes/Building Level Performance.md",
+    "Notes/Urban Level Performance.md",
+    "Notes/Material Level Performance.md",
+    "Notes/Component Level Performance.md",
+    "Notes/Environmental Sustainability.md",
+    "Notes/Resilience.md",
+    "Notes/Digital Tools.md",
+    "Deliverables/WorkStreams/Targeted.md",
+    "Resources/PROPOSAL_PartB_Page5_Targets.png",
+    "Resources/Screenshot 2024-01-17 125054.png",
     "Deliverables/WorkStreams",
     "Deliverables/WorkPackages",
     "Deliverables/Tasks",
