@@ -1,0 +1,153 @@
+# Site Information
+site_name: MULTICARE
+docs_dir: research-MULTICARE
+site_url: https://thekaushikls.github.io/research-MULTICARE
+site_author: Kaushik L.S.
+site_description: >-
+    This repository contains research notes, and reference materials collected by Kaushik L. S. from Hoelscher GmbH
+    for the MULTICARE research project coordinated by Simona Bianchi and Mauro Overend from Delft University of Technology.
+
+# Repository Information
+#repo_name: thekaushikls/research-MULTICARE
+#repo_url: https://github.com/thekaushikls/research-MULTICARE
+#edit_url: https://github.com/thekaushikls/research-MULTICARE/tree/main/docs/
+
+#region Site Footer
+
+# Copyright Information
+copyright: Copyright &copy; 2024 <a href="https://github.com/thekaushikls">Kaushik LS</a>
+
+extra:
+  # Social Media links in Footer
+  social:
+    - name: GitHub
+      icon: fontawesome/brands/github
+      link: https://github.com/thekaushikls
+
+    - name: LinkedIn
+      icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/thekaushikls
+
+    - name: Medium
+      icon: fontawesome/brands/medium
+      link: https://thekaushikls.medium.com
+    
+    - name: Email
+      icon: fontawesome/solid/envelope
+      link: mailto:kaushiklsk96+secondbrain@gmail.com
+      
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+#endregion Site Footer
+
+#region Extensions & Plugins
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - footnotes
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.superfences
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+plugins:
+  # Search Box
+  - search:
+      # Query tokenization, allows searching special characters from code blocks
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  #- autorefs
+#endregion Extensions & Plugins
+
+#region Theme Design
+theme:
+  name: material
+  highlightjs: true
+
+  # Typography
+  font: 
+    #false # Do not use Google Fonts
+    text: Roboto
+    code: Roboto Mono
+  
+  # Icons
+  #logo: Resources\Icons_brain_512x512.png
+  #favicon: Resources\Icons_brain_512x512.png
+  icon:
+    repo: fontawesome/brands/github
+    edit: fontawesome/solid/pencil
+    view: material/eye
+  
+    # Icons for Admonitions
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/fire
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
+
+
+  # Colors
+  palette:
+    # Color Scheme for Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/white-balance-sunny
+        name: Switch to light mode
+      
+    # Color Scheme for Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      
+  # Additional Features
+  features:    
+    # Header
+    - header.autohide         # Hide Header when scrolling
+
+    # Search Box
+    - search.suggest          # Suggestions in search box
+    - search.highlight        # Highlights all occurences
+    - search.share            # Enables button to copy search query
+
+    # Navigation Bar / Path
+    - navigation.top          # Back to top
+    - navigation.tracking     # URL tracks headers
+    #- navigation.sections    # Displays folders as sections
+    #- navigation.expand      # Auto Expand everything
+    - navigation.path         # Breadcrumbs
+    - navigation.prune        # Optimizes site by not rendering the entire navigation list
+    - navigation.footer      # Navigation to next page in footer
+    #- toc.integrate          # Combines Table of Contents with navigation list
+    
+    # Code Formatting
+    - content.code.copy       # Copy copy button in code block
+    - content.code.select     # Enable line selection in code block
+    #- content.code.annotate  # Tooltip from comment in code block
+    #- content.action.edit    # Enables the 'Edit on GitHub' button
+#endregion Theme Design

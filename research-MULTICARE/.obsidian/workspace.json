@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "6b18c5dc25cd2e54",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b1447eceeee85b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6db0161dd3faf9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deliverables/Tasks/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d0f2c5b410d336a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f696836a6e5bee10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee23a8d9a749075e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d23cf5db0f4759be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c1fb8c9d896cf16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.50260543823242
+  },
+  "right": {
+    "id": "3383265b77576d91",
+    "type": "split",
+    "children": [
+      {
+        "id": "726c600d0eab5caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74b039c337b5f062",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deliverables/Tasks/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d4aa67ae9cc37f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deliverables/Tasks/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73214d827350f704",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31a6fbb558830df3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deliverables/Tasks/index.md"
+              }
+            }
+          },
+          {
+            "id": "ce3a06e07a0c5695",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c6db0161dd3faf9e",
+  "lastOpenFiles": [
+    "Deliverables/index.md",
+    "Deliverables/Tasks/index.md",
+    "Deliverables/Tasks/T-6.1.2.md",
+    "Deliverables/WorkStreams/WS-6.md",
+    "Deliverables/WorkStreams/WS-5.md",
+    "Deliverables/WorkStreams/WS-4.md",
+    "Deliverables/WorkPackages/WP-6.5.md",
+    "Deliverables/WorkStreams/WS-3.md",
+    "Deliverables/WorkPackages/WP-6.3.md",
+    "Deliverables/WorkPackages/WP-6.2.md",
+    "Deliverables/WorkPackages/WP-6.1.md",
+    "Deliverables/WorkPackages/WP-5.1.md",
+    "Deliverables/WorkPackages/WP-4.1.md",
+    "Deliverables/WorkPackages/WP-3.1.md",
+    "Deliverables/Tasks/T-6.5.3.md",
+    "Deliverables/Tasks/T-6.5.2.md",
+    "Deliverables/Tasks/T-6.3.2.md",
+    "Deliverables/Tasks/T-6.3.3.md",
+    "Deliverables/Tasks/T-6.5.1.md",
+    "Deliverables/Tasks/T-6.3.1.md",
+    "Deliverables/Tasks/T-6.2.3.md",
+    "Deliverables/Tasks/T-6.2.2.md",
+    "Deliverables/Tasks/T-6.2.1.md",
+    "Deliverables/Tasks/T-6.1.4.md",
+    "Deliverables/Tasks/T-6.1.3.md",
+    "Deliverables/Tasks/T-4.1.1.md",
+    "Deliverables/WorkStreams",
+    "Deliverables/WorkPackages",
+    "Deliverables/Tasks",
+    "Deliverables",
+    "Deliverables/Tasks",
+    "Deliverables/WorkPackages",
+    "Deliverables/WorkStreams",
+    "Deliverables/Tasks",
+    "Deliverables/New folder",
+    "Deliverables/WorkPackages"
+  ]
+}

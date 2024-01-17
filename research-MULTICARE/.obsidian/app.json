@@ -1,0 +1,11 @@
+{
+  "foldHeading": false,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "Resources",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
+}
