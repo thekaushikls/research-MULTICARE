@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6a372d03104635a0",
+        "id": "2572366fc8eea430",
         "type": "tabs",
         "children": [
           {
-            "id": "e23ce868471bffa3",
+            "id": "c5588f1306c840b2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deliverables/WorkStreams/WS-3.md",
+                "file": "New/T-5.1.md",
                 "mode": "source",
                 "source": false
               },
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -51,7 +51,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.50260543823242
+    "width": 306.5124969482422
   },
   "right": {
     "id": "3383265b77576d91",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deliverables/WorkStreams/WS-3.md",
+                "file": "New/T-5.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deliverables/WorkStreams/WS-3.md",
+                "file": "New/T-5.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deliverables/WorkStreams/WS-3.md"
+                "file": "New/T-5.1.md"
               }
             }
           },
@@ -159,45 +159,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e23ce868471bffa3",
+  "active": "c5588f1306c840b2",
   "lastOpenFiles": [
-    "Deliverables/WorkStreams/index.md",
-    "index.md",
-    "index 1.md",
-    "Deliverables/WorkPackages/WP-3.1.md",
-    "Deliverables/WorkStreams/WS-3.md",
-    "Deliverables/WorkStreams/WS-4.md",
+    "Meeting Notes/2024.02.05.md",
+    "New/T-5.1.md",
+    "New/Hazards.md",
+    "New/Building-Performance.md",
+    "New/Earthquake.md",
+    "New/Earthquake-Impact-on-Structures.md",
+    "New/Reinforced-Cement-Concrete-Structures.md",
+    "javascripts/mathjax.js",
+    "javascripts/mathjas.js",
+    "javascripts",
+    "New/Untitled.md",
+    "New/Load-Bearing-Structures.md",
+    "New/Earthquake-Impact-on-Economy.md",
+    "New/Earthquake-Impact-on-Environment.md",
     "Deliverables/WorkStreams/WS-5.md",
-    "Deliverables/WorkStreams/WS-6.md",
     "Notes/Ad-Hoc Connections.md",
-    "Notes/Modular.md",
+    "Notes/Building Level Performance.md",
+    "Notes/Component Level Performance.md",
+    "Notes/Decision Support Frameworks.md",
+    "Notes/Digital Tools.md",
+    "Notes/Environmental Sustainability.md",
     "Notes/Exo-Skeleton.md",
+    "Notes/index.md",
+    "Notes/Low Carbon Impact.md",
+    "Notes/Material Level Performance.md",
+    "Notes/Modular.md",
     "Notes/Multi-layer Facade Systems.md",
     "Notes/Plug and Play.md",
-    "Notes/Reversible Connections.md",
-    "Notes/Low Carbon Impact.md",
-    "Notes/Smart Modules.md",
-    "Deliverables/WorkStreams/Low Carbon Technology.md",
-    "Deliverables/WorkStreams/Low-carbon.md",
-    "Notes/Building Level Performance.md",
-    "Notes/Urban Level Performance.md",
-    "Notes/Material Level Performance.md",
-    "Notes/Component Level Performance.md",
-    "Notes/Environmental Sustainability.md",
     "Notes/Resilience.md",
-    "Notes/Digital Tools.md",
-    "Deliverables/WorkStreams/Targeted.md",
+    "Resources/Participants",
+    "New",
     "Resources/PROPOSAL_PartB_Page5_Targets.png",
     "Resources/Screenshot 2024-01-17 125054.png",
     "Deliverables/WorkStreams",
     "Deliverables/WorkPackages",
     "Deliverables/Tasks",
     "Deliverables",
-    "Deliverables/Tasks",
-    "Deliverables/WorkPackages",
-    "Deliverables/WorkStreams",
-    "Deliverables/Tasks",
-    "Deliverables/New folder",
-    "Deliverables/WorkPackages"
+    "Deliverables/Tasks"
   ]
 }

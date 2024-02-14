@@ -1,11 +1,5 @@
 ---
-tags:
-  - ws5
-  - carbon-impact
-  - plug-and-play
-  - modular
-  - exo-skeleton
-  - smart-modules
+tags: []
 created: 17-01-2024 13:54
 author: Kaushik L. S.
 ---
@@ -13,7 +7,7 @@ author: Kaushik L. S.
 
 ## Technologies for plug & play low-carbon resilient modules
 
-<kbd> [ALL DELIVERABLES](../index.md) </kbd>
+<kbd> [ALL DELIVERABLES](../notindex.md) </kbd>
 
 **WORK PACKAGES:** [WP-5.1](../WorkPackages/WP-5.1.md) <br>
 **TASKS:** [T-5.1.1](../Tasks/T-5.1.1.md), [T-5.1.3](../Tasks/T-5.1.3.md), [T-5.1.3](../Tasks/T-5.1.3.md)

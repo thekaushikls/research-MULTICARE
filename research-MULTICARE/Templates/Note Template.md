@@ -3,7 +3,7 @@ tags:
 created: "{{date}} {{time}}"
 author: Kaushik L. S.
 ---
-# {{title}}
+# <kbd> {{title}} </kbd>
 ---
 ## About
 

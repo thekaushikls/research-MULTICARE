@@ -25,6 +25,8 @@ Research Project
 		+-- WP (Work Package)
 			|
 			+--- T (Task)
+			|
+			+--- D (Deliverable)
 ```
 
 *An initial integrated framework will be defined for assessing the effectiveness of the MULTICARE solutions and guiding the project development phases.* [^1]

@@ -17,7 +17,7 @@ author: Kaushik L. S.
 
 ## Multi-hazard real-time monitoring, control and response
 
-<kbd> [ALL DELIVERABLES](../index.md) </kbd>
+<kbd> [ALL DELIVERABLES](../notindex.md) </kbd>
 
 **WORK PACKAGES:** [WP-4.1](../WorkPackages/WP-4.1.md) <br>
 **TASKS:** [T-4.1.1](../Tasks/T-4.1.1.md), [T-4.1.2](../Tasks/T-4.1.2.md), [T-4.1.3](../Tasks/T-4.1.3.md)

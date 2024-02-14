@@ -2,13 +2,13 @@
 tags:
   - "#decision-framework"
   - digital-tools
-  - resilience
   - sustainability
   - workstream
   - retrofit
   - new-construction
   - target
   - ws3
+  - Resilience
 created: 17-01-2024 12:55
 author: Kaushik L. S.
 ---
@@ -16,7 +16,7 @@ author: Kaushik L. S.
 
 ## Multi-hazard resilience and sustainability assessment / design
 
-<kbd> [ALL DELIVERABLES](../index.md) </kbd>
+<kbd> [ALL DELIVERABLES](../notindex.md) </kbd>
 
 **WORK PACKAGES:** [WP-3.1](../WorkPackages/WP-3.1.md) <br>
 **TASKS:** [T-3.1.1](../Tasks/T-3.1.1.md), [T-3.1.2](../Tasks/T-3.1.2.md), [T-3.1.3](../Tasks/T-3.1.3.md)
